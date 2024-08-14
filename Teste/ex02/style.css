@@ -1,0 +1,24 @@
+@charset "Utf-8";
+
+body{
+    background-color: rgb(51, 142, 226);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#principal{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.iniciante{
+    color: green;
+    text-decoration: underline
+}
+.intermediario{
+    color: yellow;
+    text-decoration: underline
+}
+.avancado{
+    color: red;
+    text-decoration: underline
+}
